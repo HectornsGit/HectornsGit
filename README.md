@@ -1,4 +1,4 @@
-<div align="center">Oh hey there! Didn't hear you coming.</div>  
+<div align="left">Oh hey there! Didn't hear you coming.</div>  
   
 
 ### <div align="center"> I'm Héctor, a full-time full-stack  junior developer 🚀 since 2022! </div>  
