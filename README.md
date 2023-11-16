@@ -4,7 +4,7 @@
 ### <div align="left"> I'm Héctor, a full-time full-stack  junior developer 🚀 since 2022! </div>  
   
 
-- 🖥️ I'm currently learning improving my web developing skills and looking for new challenges.  
+- 🖥️ I'm currently improving my web developing skills and looking for new challenges.  
   
 
 - 🎨 I am a former pre-printing technician and I love design.  
